@@ -9,4 +9,6 @@ Scan QR Code to test on your device with Expo GO (Click on "Expo Go" when asked 
 
 <img src="https://github.com/user-attachments/assets/c1eee1f5-b5c0-4379-9ea8-0f8e2f09d045" width="250">
 <img src="https://github.com/user-attachments/assets/d3f0a713-9bcd-4488-bf05-87d02ee0fa5a" width="250">
+<br/>
 <img src="https://github.com/user-attachments/assets/e1569400-0e6e-4b1d-bb7e-f157d7cb3139" width="250">
+<img src="https://github.com/user-attachments/assets/8455e2cd-2204-4b13-89a8-8904308544a9" width="250">
